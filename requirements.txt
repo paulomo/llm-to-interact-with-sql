@@ -12,3 +12,4 @@ scikit-learn
 pinecone-client
 sqlalchemy
 pyodbc
+gunicorn
